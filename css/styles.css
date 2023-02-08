@@ -25,3 +25,9 @@ h1 {
     border-width: 1px;
     width: 20%
 }
+
+img {
+    width: 30%;
+    border: 3px solid black;
+    float: right;
+}
