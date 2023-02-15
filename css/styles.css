@@ -1,12 +1,12 @@
 .header {
-    background-color: white
+    background-color: white;
 }
 body {
     background-color: lightslategray;
 }
 h1 {
     color: solid black;
-    text-align: center
+    text-align: center;
 }
 
 .intro p {
@@ -22,7 +22,7 @@ h1 {
     margin: 12px;
     border: 2px solid red;
     border-width: 1px;
-    width: 20%
+    width: 20%;
 }
 
 .images {
@@ -35,15 +35,9 @@ h1 {
 
 .images img {
     width: 500px;
-    height: 500px;
-    padding: 4px;
+    height: 400px;
+    padding: 5px;
     margin-left: 4px;
-}
-
-h2 {
-    border: 3px solid white;
-    width: 3%;
-    background-color: aquamarine;
 }
 
 .dogs-1 {
@@ -54,11 +48,24 @@ h2 {
 
 .dogs-2 {
     width: 60%;
-    color: lightgray
+    color: lightgray;
 }
 
 .dogs-list {
-    color:blanchedalmond
+    color:blanchedalmond;
 }
 
-.Cats-1 {}
+.Cats-1 {
+    width: 10%;
+    border: 1px solid black;
+    background-color: lightgray;
+}
+
+.cats-list {
+    color: blanchedalmond;
+}
+
+.Cats-2 {
+    width: 60%;
+    color: lightgray;
+}
