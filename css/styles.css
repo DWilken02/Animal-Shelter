@@ -34,10 +34,10 @@ h1 {
 }
 
 .images img {
-    width: 200px;
-    height: 200px;
-    padding: 3px;
-    margin-left: 3px;
+    width: 500px;
+    height: 500px;
+    padding: 4px;
+    margin-left: 4px;
 }
 
 h2 {
@@ -61,7 +61,4 @@ h2 {
     color:blanchedalmond
 }
 
-.Cats-1 {
-
-}
- 
+.Cats-1 {}
