@@ -83,3 +83,9 @@ h1 {
 .Lizards-list {
     color: blanchedalmond;
 }
+
+.Rabbits-1 {
+    width: 10%;
+    border: 1px solid black;
+    background-color: lightgray;
+}
